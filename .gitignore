@@ -62,3 +62,7 @@ config.cfg
 Makefile
 config.h
 *.project
+
+# Ignore built
+lib/public/armeabi-v7a
+*.kate-swp
